@@ -6,4 +6,3 @@ soma = num1 + num2 + num3
 
 print("A soma dos números é:", soma)
 #aaaaaaaaaaa
-#aaaaaaaaaaa2
